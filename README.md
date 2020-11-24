@@ -13,3 +13,5 @@
 # Warning- The game will not start untill you put the yellow(default) color in front of the camera
 
 # Enjoy!
+
+# Download the exe file to play this game without installing python from https://drive.google.com/drive/folders/1NoJjbXcglk-ClYkYD05XMP9SGCSJegfS?usp=sharing

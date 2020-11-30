@@ -14,4 +14,4 @@
 
 # Enjoy!
 
-# Download the exe file to play this game without installing python from https://drive.google.com/drive/folders/1NoJjbXcglk-ClYkYD05XMP9SGCSJegfS?usp=sharing
+# Download the game from https://pranshu1902.itch.io/catch-the-objects
